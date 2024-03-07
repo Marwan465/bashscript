@@ -14,7 +14,7 @@ CriticalData="/data/critical"
 BackupTo="/backup"
 BackupMaxDays=7
 tools=("top" "free" "df" "tar" "find")
-recipient="marwan.elsharqawy@ivolve.io"
+recipient="Mohamed.ElEmam@ivolve.io"
 
 
 
